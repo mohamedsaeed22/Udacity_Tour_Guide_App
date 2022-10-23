@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Udacity_Tour_Guide_App</string>
+
+    <!-- Strings for Historic -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pyramid_name">-Pyramids</string>
+    <string name="alkarnak_name">-Al Karnak Temple</string>
+    <string name="abosimple_name">-Abu Simle Temple</string>
+    <string name="Hatshepsut_name">-Queen Hatshepsut Temple</string>
+    <string name="pyramid_loc">Giza-Egypt</string>
+    <string name="alkarnak_loc">Luxor-Egypt</string>
+    <string name="abosimple_loc">Aswan-Egypt</string>
+    <string name="Hatshepsut_loc">Luxor-Egypt</string>
+    <string name="pyramid_call">+201555555555</string>
+    <string name="alkarnak_call">+233333333332</string>
+    <string name="abosimple_call">+255555557777</string>
+    <string name="Hatshepsut_call">+28888888888</string>
+    <string name="pyramid_open_time">8Am-5Pm</string>
+    <string name="alkarnak_open_time">8Am-6Pm</string>
+    <string name="abosimple_open_time">7Am-3Pm</string>
+    <string name="Hatshepsut_open_time">8Am-7Pm</string>
+
+    <!-- Strings for Hotels -->
+    <string name="cairo_hotel_name">-Cairo Pyramids Hotel</string>
+    <string name="luxor_hotel_name">-Luxury Hotel</string>
+    <string name="hurghada_hotel_name">-Hurghada Hotel</string>
+    <string name="sokhna_hotel_name">-Porto Sokhna Hotel</string>
+    <string name="cairo_hotel_loc">Cairo-Egypt</string>
+    <string name="luxor_hotel_loc">Luxor-Egypt</string>
+    <string name="hurghada_hotel_loc">Hurghada-Egypt</string>
+    <string name="sokhna_hotel_loc">Aien-Sokhna-Egypt</string>
+    <string name="cairo_hotel_call">+22899887744</string>
+    <string name="luxor_hotel_call">+23333335555</string>
+    <string name="hurghada_hotel_call">+22277441100</string>
+    <string name="sokhna_hotel_call">+22999555555</string>
+    <string name="cairo_hotel_open">24H</string>
+    <string name="luxor_hotel_open">6Am-10Pm</string>
+    <string name="hurghada_hotel_open">6Am-11Pm</string>
+    <string name="sokhna_hotel_open">7Am-11Pm</string>
+
+    <!-- Strings for Restaurant -->
+    <string name="cairo_res_name">-Cairo Restaurant</string>
+    <string name="nile_res_name">-Nile Restaurant</string>
+    <string name="fish_res_name">-Fish Restaurant</string>
+    <string name="opet_res_name">-Opet Restaurant</string>
+    <string name="cairo_res_loc">Cairo-Egypt</string>
+    <string name="nile_res_loc">Cairo-Egypt</string>
+    <string name="fish_res_loc">Alexandria-Egypt</string>
+    <string name="opet_res_loc">Luxor-Egypt</string>
+    <string name="cairo_res_call">+255558888888</string>
+    <string name="nile_res_call">+233333333332</string>
+    <string name="fish_res_call">+211111100000</string>
+    <string name="opet_res_call">+233333366666</string>
+    <string name="cairo_res_open">11Am-11Pm</string>
+    <string name="nile_res_open">10Am-11Pm</string>
+    <string name="fish_res_open">9Am-10Pm</string>
+    <string name="opet_res_open">17Am-10Pm</string>
+
+    <!-- Strings for Shopping -->
+    <string name="arab_mall_name">-Arab Mall</string>
+    <string name="cairo_festival_mall_name">-Cairo Festival Mall</string>
+    <string name="city_stars_mall_name">-City Stars Mall</string>
+    <string name="hurghada_mall_name">-Hurghada Mall</string>
+    <string name="arab_mall_loc">6-October-Egypt</string>
+    <string name="cairo_festival_mall_loc">Cairo-Egypt</string>
+    <string name="city_stars_mall_loc">Giza-Egypt</string>
+    <string name="hurghada_mall_loc">Hurghada-Egypt</string>
+    <string name="arab_mall_call">+22222333310</string>
+    <string name="cairo_festival_mall_call">+22885588555</string>
+    <string name="city_stars_mall_call">+22333338874</string>
+    <string name="hurghada_mall_call">+23636363636</string>
+    <string name="arab_mall_open">7Am-11Pm</string>
+    <string name="cairo_festival_mall_open">8Am-11Pm</string>
+    <string name="city_stars_mall_open">10Am-11Pm</string>
+    <string name="hurghada_mall_open">6Am-11Pm</string>
+
+    <!-- Strings for List Item.xml -->
+    <string name="pic_name">Name Of Picture</string>
+    <string name="pic_loc">Location Of Image</string>
+    <string name="open_time">Open-Time</string>
+    <string name="call_number">+22233333333</string>
+
+
+
+
+
+
+
+
+</resources>
